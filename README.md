@@ -9,9 +9,10 @@
 
 ### EDUCATION
 
-Ambrose Alli University, Edo State, Nigeria.
+- 2013-2017 Ambrose Alli University, Edo State, Nigeria.
 B.SC in Microbiology,  Second Class, (Hons) Lower Division	August 2017
 Relevant Coursework: Virology, Immunology, Food Microbiology
+- 2019 Femcode Africa bootcamp. Front end web development.
 
 
 ### EXPERIENCE
